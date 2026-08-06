@@ -1,6 +1,6 @@
 /**
  * BRC Authority Model
- *
+ * 
  * Blast-Radius Control (BRC) defines authority as a contained responsibility
  * assigned to a specific system component.
  *
