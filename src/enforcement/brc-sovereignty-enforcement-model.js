@@ -1,6 +1,6 @@
 /**
  * BRC Sovereignty Enforcement Model
- *
+ * 
  * Blast-Radius Control (BRC) defines enforcement as a sovereign structural
  * object representing declared application boundaries for approved structural
  * rules within a contained system boundary.
