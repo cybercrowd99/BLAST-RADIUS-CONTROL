@@ -1,6 +1,6 @@
 /**
  * BRC Mutation Model
- *
+ * 
  * Blast-Radius Control (BRC) defines mutation as any change that modifies
  * state, structure, behavior, dependency, or authority within a system.
  *
