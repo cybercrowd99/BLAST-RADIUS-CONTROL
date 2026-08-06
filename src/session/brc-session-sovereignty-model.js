@@ -1,6 +1,6 @@
 /**
  * BRC Session Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines sessions as sovereign structural objects
  * representing a controlled continuity relationship between a requester and a
  * declared system boundary.
