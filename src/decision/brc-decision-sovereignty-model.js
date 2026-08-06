@@ -1,6 +1,6 @@
 /**
  * BRC Decision Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines decisions as sovereign structural
  * objects representing declared selections, determinations, or state choices
  * made within a contained system boundary.
