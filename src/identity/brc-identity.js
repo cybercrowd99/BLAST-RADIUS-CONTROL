@@ -1,6 +1,6 @@
 /**
  * BRC Identity Model
- *
+ * 
  * Blast-Radius Control (BRC) is a structural containment architecture.
  *
  * This module defines the identity contract of a BRC-controlled component.
