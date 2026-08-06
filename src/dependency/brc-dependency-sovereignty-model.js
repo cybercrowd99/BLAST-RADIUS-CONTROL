@@ -1,6 +1,6 @@
 /**
  * BRC Dependency Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines dependencies as declared relationships
  * between sovereign components.
  *
