@@ -1,6 +1,6 @@
 /**
  * BRC Lifecycle Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines lifecycle as a sovereign structural
  * object representing the declared existence path, progression, and preserved
  * continuity of an object within a contained system boundary.
