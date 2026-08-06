@@ -1,6 +1,6 @@
 /**
  * BRC Access Boundary Model
- *
+ * 
  * Blast-Radius Control (BRC) defines access as a controlled approach to a
  * declared boundary.
  *
