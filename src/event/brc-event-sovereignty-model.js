@@ -1,6 +1,6 @@
 /**
  * BRC Event Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines events as sovereign structural objects
  * representing declared occurrences of movement, state transition, or change
  * within a contained system boundary.
