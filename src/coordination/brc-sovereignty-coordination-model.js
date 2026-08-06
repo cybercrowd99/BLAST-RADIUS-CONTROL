@@ -1,6 +1,6 @@
 /**
  * BRC Sovereignty Coordination Model
- *
+ * 
  * Blast-Radius Control (BRC) defines coordination as a sovereign structural
  * object representing declared alignment relationships between sovereignty-
  * defined objects, components, services, or boundaries within a contained
