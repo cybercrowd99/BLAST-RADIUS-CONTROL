@@ -1,6 +1,6 @@
 /**
  * BRC Market Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines markets as sovereign structural objects
  * representing declared exchange environments where value relationships may
  * occur within a contained system boundary.
