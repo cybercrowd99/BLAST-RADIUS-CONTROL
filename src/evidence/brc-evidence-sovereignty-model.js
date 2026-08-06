@@ -1,6 +1,6 @@
 /**
  * BRC Evidence Sovereignty Model
- * 
+ *  
  * Blast-Radius Control (BRC) defines evidence as a sovereign structural
  * object that preserves proof relationships, origin references, state, and
  * continuity within a contained system boundary.
