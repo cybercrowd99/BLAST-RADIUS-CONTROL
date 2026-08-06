@@ -1,6 +1,6 @@
 /**
  * BRC Sovereignty Resolution Model
- *
+ * 
  * Blast-Radius Control (BRC) defines resolution as a sovereign structural
  * object representing declared reference connection between sovereignty-defined
  * structures within a contained system boundary.
