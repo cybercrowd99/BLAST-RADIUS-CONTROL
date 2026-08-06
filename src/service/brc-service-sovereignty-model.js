@@ -1,6 +1,6 @@
 /**
  * BRC Service Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines services as sovereign behavioral
  * containers with declared responsibility, authority, continuity, and
  * communication boundaries.
