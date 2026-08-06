@@ -1,6 +1,6 @@
 /**
  * BRC Relationship Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines relationships as sovereign structural
  * objects representing declared connections between contained sovereign
  * objects, components, services, or boundaries.
