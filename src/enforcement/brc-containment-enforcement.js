@@ -1,6 +1,6 @@
 /**
  * BRC Containment Enforcement Model
- *
+ * 
  * Blast-Radius Control (BRC) defines containment enforcement as the structural
  * application of declared boundaries, authority ownership, interface rules,
  * and mutation limits.
