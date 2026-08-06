@@ -1,6 +1,6 @@
 /**
  * BRC Sovereignty Execution Model
- *
+ * 
  * Blast-Radius Control (BRC) defines execution as a sovereign structural
  * object representing a declared action occurrence operating within an
  * established enforcement boundary.
