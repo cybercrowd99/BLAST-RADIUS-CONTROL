@@ -1,6 +1,6 @@
 /**
  * BRC Continuity Model
- *
+ * 
  * Blast-Radius Control (BRC) protects continuity by ensuring that identity,
  * authority, evidence, and structural relationships remain intact through
  * controlled change, mutation, and failure conditions.
