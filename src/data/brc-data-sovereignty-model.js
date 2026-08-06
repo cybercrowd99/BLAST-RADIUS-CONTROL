@@ -1,6 +1,6 @@
 /**
  * BRC Data Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines data as a sovereign structural object
  * with declared identity, ownership, boundaries, movement rules, continuity,
  * and evidence relationships.
