@@ -1,17 +1,3 @@
-export default {
-  async fetch(
-    request: Request,
-    env: unknown,
-    ctx: ExecutionContext
-  ): Promise<Response> {
-    return new Response(
-      "BLAST-RADIUS-CONTROL online",
-      {
-        status: 200,
-        headers: {
-          "content-type": "text/plain"
-        }
-      }
-    );
-  }
-};
+name = "blast-radius-control"
+main = "src/index.ts"
+compatibility_date = "2026-08-06"
