@@ -1,6 +1,6 @@
 /**
  * BRC Boundary Model
- *
+ * 
  * Blast-Radius Control (BRC) uses boundaries to define where responsibility,
  * authority, movement, and containment begin and end.
  *
