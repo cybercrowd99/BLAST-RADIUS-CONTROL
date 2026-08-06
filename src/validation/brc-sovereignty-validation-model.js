@@ -1,6 +1,6 @@
 /**
  * BRC Sovereignty Validation Model
- *
+ * 
  * Blast-Radius Control (BRC) defines validation as a sovereign structural
  * object representing declared structural examination of sovereignty-defined
  * objects within a contained system boundary.
