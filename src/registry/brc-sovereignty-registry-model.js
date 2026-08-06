@@ -1,6 +1,6 @@
 /**
  * BRC Sovereignty Registry Model
- *
+ * 
  * Blast-Radius Control (BRC) defines a sovereignty registry as a sovereign
  * structural object responsible for preserving declared references to
  * sovereignty-defined objects within a contained system boundary.
