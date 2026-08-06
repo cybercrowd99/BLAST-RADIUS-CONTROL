@@ -1,6 +1,6 @@
 /**
  * BRC Sovereignty Runtime Model
- *
+ * 
  * Blast-Radius Control (BRC) defines runtime as a sovereign structural object
  * representing the declared operational container where controlled execution
  * may occur within an established system boundary.
