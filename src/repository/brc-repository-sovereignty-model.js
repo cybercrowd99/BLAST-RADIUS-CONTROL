@@ -1,6 +1,6 @@
 /**
  * BRC Repository Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines repositories as sovereign structural
  * containers with declared responsibility, authority, continuity, and
  * communication boundaries.
