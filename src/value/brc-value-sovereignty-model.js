@@ -1,6 +1,6 @@
 /**
  * BRC Value Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines value as a sovereign structural object
  * representing declared contribution, exchange meaning, and recognized worth
  * within a contained system boundary.
