@@ -1,6 +1,6 @@
 /**
  * BRC Record Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines records as sovereign structural objects
  * that preserve declared information, relationships, state, and continuity
  * within a contained system boundary.
