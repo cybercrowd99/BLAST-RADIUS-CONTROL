@@ -1,6 +1,6 @@
 /**
  * BRC Interaction Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines interaction as a sovereign structural
  * object representing declared, contained, non-authoritative relationships
  * between components, services, lifecycles, or boundaries.
