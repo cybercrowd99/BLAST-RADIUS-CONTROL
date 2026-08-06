@@ -1,6 +1,6 @@
 /**
  * BRC Role Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines roles as sovereign structural objects
  * representing declared responsibility positions held by participants within
  * a contained system boundary.
