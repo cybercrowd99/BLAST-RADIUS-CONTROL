@@ -1,6 +1,6 @@
 /**
  * BRC State Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines state as a sovereign structural object
  * representing declared condition, position, and continuity of a contained
  * system boundary.
