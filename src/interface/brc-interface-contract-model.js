@@ -1,6 +1,6 @@
 /**
  * BRC Interface Contract Model
- *
+ * 
  * Blast-Radius Control (BRC) defines interfaces as controlled points of
  * communication between sovereign system components.
  *
