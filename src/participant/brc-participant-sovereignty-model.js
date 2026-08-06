@@ -1,6 +1,6 @@
 /**
  * BRC Participant Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines participants as sovereign structural
  * objects representing declared entities involved in contained system
  * relationships.
