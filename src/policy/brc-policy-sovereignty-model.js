@@ -1,6 +1,6 @@
 /**
  * BRC Policy Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines policies as sovereign structural objects
  * representing declared rules governing movement, responsibility, authority,
  * and containment within a system boundary.
