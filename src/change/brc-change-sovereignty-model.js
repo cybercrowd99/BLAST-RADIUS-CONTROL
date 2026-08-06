@@ -1,6 +1,6 @@
 /**
  * BRC Change Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines change as a sovereign structural object
  * representing declared transitions between states, structures, or
  * relationships within a contained system boundary.
