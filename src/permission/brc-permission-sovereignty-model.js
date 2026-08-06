@@ -1,6 +1,6 @@
 /**
  * BRC Permission Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines permissions as sovereign structural
  * objects representing declared allowances for movement within a contained
  * system boundary.
