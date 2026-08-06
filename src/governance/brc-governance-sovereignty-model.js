@@ -1,6 +1,6 @@
 /**
  * BRC Governance Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines governance as a sovereign structural
  * object representing declared coordination, responsibility, and preservation
  * relationships within a contained system boundary.
