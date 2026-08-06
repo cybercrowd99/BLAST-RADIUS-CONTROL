@@ -1,6 +1,6 @@
 /**
  * BRC Ownership Model
- *
+ * 
  * Blast-Radius Control (BRC) defines ownership as the structural relationship
  * between a component, its responsibility, its authority, and its continuity.
  *
