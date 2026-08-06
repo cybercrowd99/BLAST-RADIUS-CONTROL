@@ -1,6 +1,6 @@
 /**
  * BRC Transaction Sovereignty Model
- *
+ * 
  * Blast-Radius Control (BRC) defines transactions as sovereign structural
  * objects representing declared exchanges, state changes, or value movement
  * relationships within a contained system boundary.
